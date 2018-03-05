@@ -1,0 +1,19 @@
+body,html {
+  width: 100%;
+}
+h1 {
+  width: 50%;
+  border:1px solid #ddd;
+  padding: 30px;
+  border-radius: 15px;
+  margin: 0 auto;
+  text-align: center;
+}
+ul {
+  width: 50%;
+  line-hieght: 30px;
+  margin: 0 auto;
+  margin-top: 40px;
+  border: 1px solid #ddd;
+  border-radius: 15px;
+}
